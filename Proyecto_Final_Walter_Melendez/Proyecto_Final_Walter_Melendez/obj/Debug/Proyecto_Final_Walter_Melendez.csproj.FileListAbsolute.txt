@@ -1,0 +1,11 @@
+C:\Users\walte\Documents\GitHub\Mi-diario-de-experiencias\Proyecto_Final_Walter_Melendez\Proyecto_Final_Walter_Melendez\obj\Debug\Proyecto_Final_Walter_Melendez.csproj.AssemblyReference.cache
+C:\Users\walte\Documents\GitHub\Mi-diario-de-experiencias\Proyecto_Final_Walter_Melendez\Proyecto_Final_Walter_Melendez\obj\Debug\Proyecto_Final_Walter_Melendez.csproj.SuggestedBindingRedirects.cache
+C:\Users\walte\Documents\GitHub\Mi-diario-de-experiencias\Proyecto_Final_Walter_Melendez\Proyecto_Final_Walter_Melendez\obj\Debug\Proyecto_Final_Walter_Melendez.Form1.resources
+C:\Users\walte\Documents\GitHub\Mi-diario-de-experiencias\Proyecto_Final_Walter_Melendez\Proyecto_Final_Walter_Melendez\obj\Debug\Proyecto_Final_Walter_Melendez.Properties.Resources.resources
+C:\Users\walte\Documents\GitHub\Mi-diario-de-experiencias\Proyecto_Final_Walter_Melendez\Proyecto_Final_Walter_Melendez\obj\Debug\Proyecto_Final_Walter_Melendez.csproj.GenerateResource.cache
+C:\Users\walte\Documents\GitHub\Mi-diario-de-experiencias\Proyecto_Final_Walter_Melendez\Proyecto_Final_Walter_Melendez\obj\Debug\Proyecto_Final_Walter_Melendez.csproj.CoreCompileInputs.cache
+C:\Users\walte\Documents\GitHub\Mi-diario-de-experiencias\Proyecto_Final_Walter_Melendez\Proyecto_Final_Walter_Melendez\bin\Debug\Proyecto_Final_Walter_Melendez.exe.config
+C:\Users\walte\Documents\GitHub\Mi-diario-de-experiencias\Proyecto_Final_Walter_Melendez\Proyecto_Final_Walter_Melendez\bin\Debug\Proyecto_Final_Walter_Melendez.exe
+C:\Users\walte\Documents\GitHub\Mi-diario-de-experiencias\Proyecto_Final_Walter_Melendez\Proyecto_Final_Walter_Melendez\bin\Debug\Proyecto_Final_Walter_Melendez.pdb
+C:\Users\walte\Documents\GitHub\Mi-diario-de-experiencias\Proyecto_Final_Walter_Melendez\Proyecto_Final_Walter_Melendez\obj\Debug\Proyecto_Final_Walter_Melendez.exe
+C:\Users\walte\Documents\GitHub\Mi-diario-de-experiencias\Proyecto_Final_Walter_Melendez\Proyecto_Final_Walter_Melendez\obj\Debug\Proyecto_Final_Walter_Melendez.pdb
